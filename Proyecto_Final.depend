@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569812832 source:c:\users\cgari\desktop\proyecto_final\proyecto_final\main.cpp
+	<iostream>
+	<locale>
+
